@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Marcos Aurélio — @Marcos-Aurelio12
+# 👋 Olá! Eu sou o Haruki — @haruki-dev-backend
 
 🎯 Desenvolvedor backend focado em entregar soluções web modernas, escaláveis e com ótima experiência de usuário. Apaixonado por tecnologia, desempenho e boas práticas de código.
 Posto meus codigos em repositorios privados por privacidade! Entenda.
@@ -8,7 +8,7 @@ Posto meus codigos em repositorios privados por privacidade! Entenda.
 
 ### 🛠️ Back-end
 - Jaa
-
+https://github.com/haruki-dev-backend
 ---
 
 ## 📈 GitHub Stats
